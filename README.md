@@ -19,4 +19,4 @@ This repository contains the tasks completed during the CodeAlpha Python Interns
 - File Handling
 
 ## Author
-Dipak Kale
+Dipak Gajanan Kale
